@@ -1,4 +1,4 @@
-# Github-Profile-Searcher
+# Github-Profile-Finder
 A web application that allows users to search for Github profiles by entering a Github username. This tool fetches user information from Github's API and displays it in a clean and responsive interface.
 
 **Interface**
